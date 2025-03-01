@@ -1,1 +1,1 @@
-# This is a Repo Consists of Generative AI course Practice Materials 
+# This is a Repo Consists of Generative AI course Practice Materials.
